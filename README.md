@@ -1,8 +1,3 @@
-    <a href="https://t.me/shnajder228" target="_blank">
-      <img src="https://github.com/user-attachments/assets/939f8beb-a49a-48cf-89b9-d610ee5c4b26" alt="Telegram" height="40">
-    </a>
-</div>
-
 # 📖 Описание проекта
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/AvenCores/goida-vpn-configs)
