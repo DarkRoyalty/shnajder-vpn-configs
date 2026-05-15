@@ -1,7 +1,7 @@
 # 📖 Описание проекта
 
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/AvenCores/goida-vpn-configs?style=for-the-badge)](https://github.com/AvenCores/goida-vpn-configs/stargazers)
+![Configs Count](https://img.shields.io/badge/dynamic/json?label=актуальные%20конфиги&query=count&url=https%3A%2F%2Fraw.githubusercontent.com%2FDarkRoyalty%2Fshnajder-vpn-configs%2Fmain%2Fgithubmirror%2F1.txt)
 ![GitHub forks](https://img.shields.io/github/forks/AvenCores/goida-vpn-configs?style=for-the-badge)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/AvenCores/goida-vpn-configs?style=for-the-badge)](https://github.com/AvenCores/goida-vpn-configs/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/AvenCores/goida-vpn-configs?style=for-the-badge)](https://github.com/AvenCores/goida-vpn-configs/issues)
