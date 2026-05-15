@@ -540,4 +540,4 @@ python main.py
 # 💰 Поддержать автора
 
 + **Сбербанк**: `2202 2083 9345 3783`
-+ **Telegram**: [@shnajder228](https://t.me/shnajder228)
++ **Telegram**: [@shnajder228](https://t.me/shnajder228) 
