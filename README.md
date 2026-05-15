@@ -462,8 +462,76 @@ python main.py
 **1.** Переходим во вкладку **«Config»**.
 
 **2.** Нажимаем на иконку обновления слева от названия группы подписки.
+<details>
+
+<summary>💻 Гайд для MacOS</summary>
+
+**1.** Скачиваем **«Hiddify»** — [Ссылка](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg)
+
+**2.** Нажимаем **«Новый профиль»**.
+
+**3.** Копируем в буфер обмена:
+> Рекомендованные **«QR-коды»**: **[1](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/qr-codes/1.png)**, **[6](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/qr-codes/6.png)**, **[22](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/qr-codes/22.png)**, **[23](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/qr-codes/23.png)**, **[24](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/qr-codes/24.png)** и **[25](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/qr-codes/25.png)**.
+>
+> > Обход SNI/CIDR белых списков: **[26](https://github.com/DarkRoyalty/shnajder-vpn-configs/blob/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Вечно актуальные ссылки:
+
+1) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
+2) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
+3) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
+4) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
+5) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
+6) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
+7) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
+8) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
+9) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
+10) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
+11) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
+12) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
+13) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
+14) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
+15) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
+16) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
+17) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
+18) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
+19) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
+20) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
+21) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
+22) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
+23) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
+24) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
+25) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
+26) `https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
+
+**4.** Нажимаем на кнопку **«Добавить из буфера обмена»**.
+   
+**5.** Перейдите в **«Настройки»**, измените **«Вариант маршрутизации»** на **«Индонезия»**.
+
+**6.** Нажмите в левом верхнем меню на иконку настроек и выберите **«VPN сервис»**.
+
+**7.** Включаем **«VPN»** нажав на иконку по середине. 
+
+**8.** Для смены сервера включите **«VPN»** и перейдите во вкладку **«Прокси»**.
 
 </details>
 
+<details>
+
+<summary>🔄 Обновление конфигов в Hiddify</summary>
+
+**1.** Заходим в приложение **«Hiddify»** и выбираем нужный вам профиль.
+
+**2.** Нажимаем **«слева от названия профиля на иконку обновления»**.
+
+</details>
 
 ---
+
+# 📜 Лицензия
+
+Проект распространяется под лицензией GPL-3.0. Полный текст лицензии содержится в файле [`LICENSE`](LICENSE).
+
+💰 Поддержать автора
+Сбербанк: 2202 2083 9345 3783
+
+Telegram: @shnajder228
