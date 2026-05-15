@@ -61,7 +61,7 @@ offset = thistime.strftime("%H:%M | %d.%m.%Y")
 
 # -------------------- GITHUB API (только для статистики) --------------------
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
-REPO_NAME = "AvenCores/goida-vpn-configs"
+REPO_NAME = os.environ.get("REPO_NAME", "DarkRoyalty/shnajder-vpn-configs")
 
 _repo_stats_client = None
 REPO = None
