@@ -537,3 +537,5 @@ python main.py                  # конфиги появятся в ../githubmi
 ---
 # 💰 Поддержать автора
 + **SBER**: `2202 2083 9345 3783`
++ **Telegram**: [@shnajder228](https://t.me/shnajder228)
++ **Donation Alert**: [Отправить донат](https://t.me/shnajder228)
