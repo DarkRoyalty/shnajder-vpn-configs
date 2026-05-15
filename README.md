@@ -525,6 +525,8 @@ python main.py
 
 </details>
 
+<details>
+
 ---
 
 # 📜 Лицензия
