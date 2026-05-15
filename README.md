@@ -464,6 +464,10 @@ python main.py
 **2.** Нажимаем на иконку обновления слева от названия группы подписки.
 <details>
 
+</details>
+
+<details>
+  
 <summary>💻 Гайд для MacOS</summary>
 
 **1.** Скачиваем **«Hiddify»** — [Ссылка](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg)
@@ -516,6 +520,7 @@ python main.py
 </details>
 
 <details>
+  
 <summary>🔄 Обновление конфигов в Hiddify</summary>
 
 **1.** Заходим в приложение **«Hiddify»** и выбираем нужный вам профиль.
