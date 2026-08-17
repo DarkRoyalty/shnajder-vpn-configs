@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-17-Aug-2026 16:02
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-17-Aug-2026 18:52
 
 
 
@@ -60,6 +60,11 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&amp;
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&amp;encryption=none&amp;pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://71f8e1c0-c771-01a1-f424-7d80df10f777@69.46.46.123:443?path=%2Fws%2F71f8e1c0-c771-01a1-f424-7d80df10f777&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=x4g-production-620b.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=x4g-production-620b.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fr.sellflow.org#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.22:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40ELiV2ray
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&amp;encryption=none&amp;pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sw1-chr.astralweb.tech&amp;sid=496ee75c2f91f51d#%F0%9F%87%B8%F0%9F%87%AA424Mb%20%7C%20%40ELiV2ray
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=forfreeuse.sub-flow.online&amp;fp=chrome&amp;type=ws&amp;sni=forfreeuse.sub-flow.online#SW-%40ELiV2ray
@@ -96,7 +101,6 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.140.169:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.6.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.48.194:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
@@ -108,10 +112,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.199.26.134:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.91:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;mode=stream-one&amp;alpn=h2&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40FREELAND8
-vless://24f5e79b-a4ef-4624-90e7-41f1b3b26aa2@93.114.98.9:443?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=dmizl39pf1db.dx4x.com&amp;insecure=0&amp;allowInsecure=0#%40FREELAND8
-vless://24f5e79b-a4ef-4624-90e7-41f1b3b26aa2@93.114.98.9:4433?encryption=mlkem768x25519plus.native.0rtt.OUoQPuISqliixQel_m8_F9q7_6seiijQhJ226iXHkDM&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=icloud.com#%40FREELAND8
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=music1000.melobitmusic1.ir&amp;sni=music1000.melobitmusic1.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=ios&amp;insecure=0&amp;allowInsecure=0#%40FREELAND8
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.157.217:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;mode=stream-one&amp;alpn=h2&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40FreeLand8
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=po.fastbrokencompony.com&amp;sni=po.fastbrokencompony.com&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40FreeLand8
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffp&amp;host=hhlfy.twiladaphne.ndjp.net&amp;sni=hhlfy.twiladaphne.ndjp.net&amp;insecure=0&amp;allowInsecure=0#%40FreeLand8
@@ -693,6 +694,11 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&amp;
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&amp;encryption=none&amp;pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://71f8e1c0-c771-01a1-f424-7d80df10f777@69.46.46.123:443?path=%2Fws%2F71f8e1c0-c771-01a1-f424-7d80df10f777&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=x4g-production-620b.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=x4g-production-620b.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fr.sellflow.org#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&amp;type=http&amp;path=/
 vless://d997b836-7ad5-433e-af01-e0adc687dc6b@v2.jexu.ir:2003?encryption=none&amp;headerType=http&amp;host=&amp;path=%2F&amp;security=none&amp;type=tcp#awlix_ir
 
@@ -985,6 +991,13 @@ ss://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&amp;
 ss://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://71f8e1c0-c771-01a1-f424-7d80df10f777@69.46.46.123:443?path=%2Fws%2F71f8e1c0-c771-01a1-f424-7d80df10f777&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=x4g-production-620b.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=x4g-production-620b.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fr.sellflow.org#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#%F0%9F%87%B8%F0%9F%87%AC%40FreakConfig
 ss://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.22:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40ELiV2ray
 ss://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&amp;encryption=none&amp;pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sw1-chr.astralweb.tech&amp;sid=496ee75c2f91f51d#%F0%9F%87%B8%F0%9F%87%AA424Mb%20%7C%20%40ELiV2ray
 ss://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=forfreeuse.sub-flow.online&amp;fp=chrome&amp;type=ws&amp;sni=forfreeuse.sub-flow.online#SW-%40ELiV2ray
@@ -1029,7 +1042,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@tt.hsrdnr.ir:2044?secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@page.hsrdnr.ir:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@185.215.228.132:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.140.169:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.6.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.48.194:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
@@ -1041,11 +1053,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22222?encryption=none&amp
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.199.26.134:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.91:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-ss://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;mode=stream-one&amp;alpn=h2&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40FREELAND8
-ss://24f5e79b-a4ef-4624-90e7-41f1b3b26aa2@93.114.98.9:443?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=dmizl39pf1db.dx4x.com&amp;insecure=0&amp;allowInsecure=0#%40FREELAND8
-ss://24f5e79b-a4ef-4624-90e7-41f1b3b26aa2@93.114.98.9:4433?encryption=mlkem768x25519plus.native.0rtt.OUoQPuISqliixQel_m8_F9q7_6seiijQhJ226iXHkDM&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=icloud.com#%40FREELAND8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?type=tcp&amp;headerType=none#%40FREELAND8
-ss://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=music1000.melobitmusic1.ir&amp;sni=music1000.melobitmusic1.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=ios&amp;insecure=0&amp;allowInsecure=0#%40FREELAND8
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.157.217:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;mode=stream-one&amp;alpn=h2&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40FreeLand8
 ss://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=po.fastbrokencompony.com&amp;sni=po.fastbrokencompony.com&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40FreeLand8
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffp&amp;host=hhlfy.twiladaphne.ndjp.net&amp;sni=hhlfy.twiladaphne.ndjp.net&amp;insecure=0&amp;allowInsecure=0#%40FreeLand8
@@ -1745,6 +1753,13 @@ ss://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&amp;
 ss://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://71f8e1c0-c771-01a1-f424-7d80df10f777@69.46.46.123:443?path=%2Fws%2F71f8e1c0-c771-01a1-f424-7d80df10f777&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=x4g-production-620b.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=x4g-production-620b.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@45.131.212.52:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fr.sellflow.org#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=forfreeuse.rtqa.ru&amp;type=ws&amp;allowInsecure=0&amp;sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#%F0%9F%87%B8%F0%9F%87%AC%40FreakConfig
 ss://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&amp;type=http&amp;path=/
 ss://d997b836-7ad5-433e-af01-e0adc687dc6b@v2.jexu.ir:2003?encryption=none&amp;headerType=http&amp;host=&amp;path=%2F&amp;security=none&amp;type=tcp#awlix_ir
 
@@ -1772,7 +1787,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Mkt2bkducjQvbDNPaVJmNEhiMlEzR01iSzUvSGJUZnp
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-
 
 
 
@@ -1844,7 +1858,6 @@ trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;inse
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40ConfigV2RayNG
 trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;insecure=0&amp;fp=edge&amp;type=grpc&amp;serviceName=ajv&amp;allowInsecure=0&amp;sni=ru-5b7331.atlanta-games.com#%F0%9F%87%AA%F0%9F%87%AA%20ConfigV2RayNG%20
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=87.121.218.169#%F0%9F%87%A9%F0%9F%87%AA%20ConfigV2RayNG%20
-
 
 
 
