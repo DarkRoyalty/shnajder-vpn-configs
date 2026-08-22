@@ -73,7 +73,7 @@
 | 2 | [`2.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/2.txt) | [sevcator/5ubscrpt10n](https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt) | 01:45 | 18.08.2026 |
 | 3 | [`3.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/3.txt) | [yitong2333/proxy-minging](https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt) | 12:41 | 22.08.2026 |
 | 4 | [`4.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/4.txt) | [acymz/AutoVPN](https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt) | 12:41 | 22.08.2026 |
-| 5 | [`5.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/5.txt) | [miladtahanian/V2RayCFGDumper](https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt) | 12:41 | 22.08.2026 |
+| 5 | [`5.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/5.txt) | [miladtahanian/V2RayCFGDumper](https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt) | 12:58 | 22.08.2026 |
 | 6 | [`6.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/6.txt) | [roosterkid/openproxylist](https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt) | 12:13 | 22.08.2026 |
 | 7 | [`7.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/7.txt) | [Epodonios/v2ray-configs](https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt) | 11:54 | 22.08.2026 |
 | 8 | [`8.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/8.txt) | [CidVpn/cid-vpn-config](https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt) | 15:57 | 05.05.2026 |
@@ -94,7 +94,7 @@
 | 23 | [`23.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/23.txt) | [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia/raw/refs/heads/main/BLACK_VLESS_RUS.txt) | 08:56 | 22.08.2026 |
 | 24 | [`24.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/24.txt) | [Mr-Meshky/vify](https://github.com/Mr-Meshky/vify/raw/refs/heads/main/configs/vless.txt) | 12:41 | 22.08.2026 |
 | 25 | [`25.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/25.txt) | [V2RayRoot/V2RayConfig](https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt) | 08:10 | 05.07.2026 |
-| 26 | [`26.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | [Обход SNI/CIDR белых списков](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | 12:41 | 22.08.2026 |
+| 26 | [`26.txt`](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | [Обход SNI/CIDR белых списков](https://github.com/DarkRoyalty/shnajder-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | 12:58 | 22.08.2026 |
 
 ## 📊 Статистика репозитория
 | Показатель | Значение |
